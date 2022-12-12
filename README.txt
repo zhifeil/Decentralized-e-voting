@@ -40,6 +40,8 @@ For example, V=0001||0010 represents one vote for C_1 and two votes for C_2.
 Therefore, for our case, each candidate can receive a maximum of 15 votes.
 
 
-If you have any quesitons, please check our demo video https://www.youtube.com/watch?v=oi3uoW_KC-c about two test cases(1. normal voting process and 2. if someone has already tampered with encrypted_votes.txt file) or contact us. Thanks a lot.
+If you have any quesitons, please check our demo video https://www.youtube.com/watch?v=oi3uoW_KC-c about two test cases(1. normal voting process and 2. if someone has already tampered with encrypted_votes.txt file) or contact us at zhifeil@sfu.ca
+
+Thanks a lot.
 
 
