@@ -1,3 +1,8 @@
+Presentation Video URL:
+https://www.youtube.com/watch?v=hfLegmG0gpQ
+
+Demo Video URL:
+https://www.youtube.com/watch?v=oi3uoW_KC-c
 
 Code URL:
 https://github.com/zhifeil/VotingSystem
