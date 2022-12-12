@@ -33,7 +33,13 @@ If you finished an election and want to start another new election, please remem
 
 For each election, there is a 'encrypted_votes.txt' file to store encrypted votes and hash value.
 
+# Structure of vote
 
-If you have any quesitons, please check our demo video https://www.youtube.com/watch?v=oi3uoW_KC-c or contact us. Thanks a lot.
+Suppose there are two candidates C_1,C_2,  then the vote is a hex num V=V_1||V_2. 
+For example, V=0001||0010 represents one vote for C_1 and two votes for C_2.
+Therefore, for our case, each candidate can receive a maximum of 15 votes.
+
+
+If you have any quesitons, please check our demo video https://www.youtube.com/watch?v=oi3uoW_KC-c about two test cases(1. normal voting process and 2. if someone has already tampered with encrypted_votes.txt file) or contact us. Thanks a lot.
 
 
