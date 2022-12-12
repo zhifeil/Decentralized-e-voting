@@ -8,7 +8,7 @@ Code URL:
 https://github.com/zhifeil/VotingSystem
 
 
-This is a decentralized e-voting application based on Homomophoc encryption-pallier, implemented by Python
+This is a decentralized e-voting application based on Homomorphic encryption-pallier, implemented by Python
 
 # Environment
 
